@@ -1,1 +1,2 @@
-This is first git test
+This is first git test
+This is 2 git test
